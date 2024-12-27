@@ -3,3 +3,5 @@ Model regresi = model_lstm_weather_prediction(REVISI).tflite dan prediksi_cuacaa
 Model klasifikasi = ann_model (1).tflite dan klasifikasi_cuaca.h5, scalernya adalah scaler_params(klasifikasi).json
 
 Dokumentasi pengembangan model bisa dilihat di develop_classification_model.ipynb dan develop_regresi_model.ipynb
+
+Contoh penggunaan bisa dilihat di penggunaan_singkaat_kedua_model.ipynb
